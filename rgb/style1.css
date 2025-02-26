@@ -9,7 +9,7 @@ body{
     align-items: right;
     justify-content: right;
     font-family: 'Times New Roman', Times, serif;
-}
+}console.log("CSS Styles Loaded Successfully");
 span{
     text-align: center;
     background: linear-gradient(to right, #d5d0d3, #f6e7f0);
